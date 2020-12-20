@@ -46,4 +46,6 @@ dnf install fritzing // outils pour faire des schémas
 
 Alternative pour les schémas : https://easyeda.com/page/download
 
+Alternative2 pour les schémas : https://www.autodesk.com/products/eagle/overview
+
 
