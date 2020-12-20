@@ -1,4 +1,6 @@
-# Fedora_post_install
+# Configuration Fedora post installation 
+
+Ligne de commande a lancer dans un terminal
 
 ```
 sudo su 
@@ -18,20 +20,23 @@ dnf install unrar
 reboot
 ```
 
-# ajout des extensions Gnome 
+# Ajout des extensions Gnome
+
 
 https://extensions.gnome.org/
 
-Radio : https://extensions.gnome.org/extension/836/internet-radio/
+*** Extention Radio ***
+```
+https://extensions.gnome.org/extension/836/internet-radio/
+```
+# Ajout des outils de developpement Iot Arduino  
 
-# Pour Dev IOT Arduino 
-
-// IDE de dev
+IDE de developpement
 ``` 
 dnf install arduino 
 ```
 
-Outils pour faire des schémas ou une de ces alternatives 
+Outil pour faire des schémas electronique (ou une de ces alternatives)
 
 https://easyeda.com/page/download
 
