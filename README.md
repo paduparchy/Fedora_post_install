@@ -41,5 +41,9 @@ Radio : https://extensions.gnome.org/extension/836/internet-radio/
 # Pour Dev IOT Arduino 
 
 dnf install arduino // IDE de dev
-dnf install fritzing // outils pour faire des schéma 
+
+dnf install fritzing // outils pour faire des schémas
+
+Alternative pour les schémas : https://easyeda.com/page/download
+
 
