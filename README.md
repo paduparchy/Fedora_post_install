@@ -1,8 +1,11 @@
 # Fedora_post_install
 
+```
+
 sudo su 
 
 dnf update
+
 
 dnf install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm
 
@@ -30,7 +33,7 @@ dnf install unrar
 
 reboot
 
-
+```
 
 # ajout des extensions Gnome 
 
@@ -40,12 +43,18 @@ Radio : https://extensions.gnome.org/extension/836/internet-radio/
 
 # Pour Dev IOT Arduino 
 
-dnf install arduino // IDE de dev
+// IDE de dev
+``` 
+dnf install arduino 
 
-dnf install fritzing // outils pour faire des schémas
+```
 
-Alternative pour les schémas : https://easyeda.com/page/download
+Outils pour faire des schémas ou une de ces alternatives 
 
-Alternative2 pour les schémas : https://www.autodesk.com/products/eagle/overview
+https://easyeda.com/page/download
 
+https://www.autodesk.com/products/eagle/overview
 
+```
+dnf install fritzing 
+```
