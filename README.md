@@ -66,3 +66,9 @@ sudo dnf check-update
 sudo dnf install code
 
 ```
+Installation PlatformIO
+Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
+
+```
+ext install platformio.platformio-ide
+```
