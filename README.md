@@ -23,7 +23,7 @@ tlp-stat -b
 systemctl enable tlp
 reboot
 ```
-# Ajout des extensions Gnome
+# Ajout des extensions Gnome & personalisation 
 
 https://extensions.gnome.org/
 
@@ -31,6 +31,13 @@ https://extensions.gnome.org/
 ```
 https://extensions.gnome.org/extension/836/internet-radio/
 ```
+
+Afficher, de façon permanente, la barre d’adresse dans Nautilus
+```
+gsettings set org.gnome.nautilus.preferences always-use-location-entry true
+```
+
+
 # Ajout des outils de developpement Iot Arduino  
 
 IDE de developpement
